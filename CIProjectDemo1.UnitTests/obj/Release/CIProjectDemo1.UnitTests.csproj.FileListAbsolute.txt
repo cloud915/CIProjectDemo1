@@ -1,0 +1,10 @@
+D:\develop\CI\Code\Demo1\CIProjectDemo1\BuildArtifacts\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\BuildArtifacts\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.csprojResolveAssemblyReference.cache
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\CIProjectDemo1\BuildArtifacts\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\CIProjectDemo1\BuildArtifacts\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.csprojResolveAssemblyReference.cache
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Release\CIProjectDemo1.UnitTests.pdb

@@ -1,0 +1,16 @@
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\nunit.framework.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.pdb
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.csprojResolveAssemblyReference.cache
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\Demo1\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.UnitTests.pdb
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.dll
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\nunit.framework.dll
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\bin\Debug\CIProjectDemo1.pdb
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.csprojResolveAssemblyReference.cache
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.dll
+D:\develop\CI\Code\CIProjectDemo1\CIProjectDemo1.UnitTests\obj\Debug\CIProjectDemo1.UnitTests.pdb
